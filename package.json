@@ -1,0 +1,7 @@
+{
+	"name": "run-notifier-for-swex",
+	"version": "1.0.0",
+	"description": "A run notification plugin for SWEX.",
+	"main": "RunNotifier.js",
+	"dependencies": {}
+}
