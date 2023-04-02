@@ -13,7 +13,7 @@ and adapted it mostly to the versions of the game!
 ## Installation
 
 1. Download the **RunNotifier.asar** from [latest release](https://github.com/MrYukio/SWEX-RunNotifier/releases/latest/).
-2. Move the **RunNotifier.asar** into the plugins folder of SWEX.
+2. Move the **RunNotifier.asar** into the plugins folder of [SWEX](https://github.com/Xzandro/sw-exporter).
 
 ## Configuration
 
